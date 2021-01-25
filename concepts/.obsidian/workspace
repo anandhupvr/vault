@@ -1,0 +1,88 @@
+{
+  "main": {
+    "id": "4bed703693e36f48",
+    "type": "split",
+    "children": [
+      {
+        "id": "f81ccf5a1e2ee4c7",
+        "type": "leaf",
+        "active": true,
+        "state": {
+          "type": "graph",
+          "state": {}
+        }
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "c6e3955be5f013e2",
+    "type": "split",
+    "children": [
+      {
+        "id": "933bf11c4ad19fb6",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "a151394e03c1464a",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {}
+            }
+          },
+          {
+            "id": "6db8e3969c924900",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "a994d05723f6ddb7",
+    "type": "split",
+    "children": [
+      {
+        "id": "497355e98f9b57ea",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "4ca94c5104442869",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "lastOpenFiles": [
+    "slam/slam/BilateralFilter.md",
+    "slam/slam/BilateralFilterWeight.md"
+  ]
+}

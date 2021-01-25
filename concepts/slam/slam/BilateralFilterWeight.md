@@ -1,0 +1,1 @@
+$W_p = \sum_{i=1}^{\infty}G_sigma_s(|p - q|) G_sigma_r(I_p - I_q)$
