@@ -8,8 +8,11 @@
         "type": "leaf",
         "active": true,
         "state": {
-          "type": "graph",
-          "state": {}
+          "type": "markdown",
+          "state": {
+            "file": "slam/LoopClosure.md",
+            "mode": "source"
+          }
         }
       }
     ],
@@ -66,6 +69,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "slam/LoopClosure.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -82,7 +86,15 @@
     "collapsed": true
   },
   "lastOpenFiles": [
-    "slam/slam/BilateralFilter.md",
-    "slam/slam/BilateralFilterWeight.md"
+    "slam/LoopClosure.md",
+    "Optimization.md",
+    "slam/Slam.md",
+    "slam/Odometry.md",
+    "slam/BilateralFilter.md",
+    "slam/BilateralFilterWeight.md",
+    "LoopClosure.md",
+    "Odometry.md",
+    "Untitled.md",
+    "slam/Untitled.md"
   ]
 }
