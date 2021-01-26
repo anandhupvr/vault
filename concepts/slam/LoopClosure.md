@@ -1,5 +1,11 @@
 Bag of word approach
 
+
+[[Local Loop Closure]]
+	to stay close to the mode of the map distribution
+[[Global Loop Closure]]
+	to avoid drift and maintain global consistency
+
 - map to map
 - image to map
 -  image to image
