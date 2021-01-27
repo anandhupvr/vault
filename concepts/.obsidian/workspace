@@ -4,12 +4,15 @@
     "type": "split",
     "children": [
       {
-        "id": "f81ccf5a1e2ee4c7",
+        "id": "000fb2c816a0d7b7",
         "type": "leaf",
         "active": true,
         "state": {
-          "type": "graph",
-          "state": {}
+          "type": "markdown",
+          "state": {
+            "file": "Fern Loop Closure.md",
+            "mode": "source"
+          }
         }
       }
     ],
@@ -66,6 +69,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Fern Loop Closure.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -82,15 +86,15 @@
     "collapsed": true
   },
   "lastOpenFiles": [
+    "Fern Loop Closure.md",
     "slam/LoopClosure.md",
-    "Optimization.md",
     "slam/Slam.md",
+    "Optimization.md",
     "slam/Odometry.md",
     "slam/BilateralFilter.md",
     "slam/BilateralFilterWeight.md",
     "LoopClosure.md",
     "Odometry.md",
-    "Untitled.md",
-    "slam/Untitled.md"
+    "Untitled.md"
   ]
 }

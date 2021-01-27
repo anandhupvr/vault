@@ -1,9 +1,9 @@
 Bag of word approach
 
 
-[[Local Loop Closure]]
+Local Loop Closure
 	to stay close to the mode of the map distribution
-[[Global Loop Closure]]
+Global Loop Closure
 	to avoid drift and maintain global consistency
 
 - map to map
@@ -21,3 +21,8 @@ Determining loop closure hypothesis
 
 Reject outliers
 	when the different place look similar  ( past image look like the current image but dot not come from the same scene)
+	
+	
+	
+	
+[[Fern Loop Closure]]
